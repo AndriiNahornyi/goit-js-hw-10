@@ -1,4 +1,4 @@
-import { Notify } from "notiflix/build/notiflix-notify-aio";
+// import { Notify } from "notiflix/build/notiflix-notify-aio";
 
 export const BASE_URL = 'https://restcountries.com/v3.1/name';
 
