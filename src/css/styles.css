@@ -18,3 +18,15 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.list {
+  font-family: inherit;
+  font-weight: 700;
+  list-style: none;
+}
+
+.countryName {
+  font-family: inherit;
+  font-weight: 900;
+  font-size: 30px;
+}
